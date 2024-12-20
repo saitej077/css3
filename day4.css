@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+.A1{
+    display: flex;
+    justify-content: center;
+    margin: 10px 10px;
+    padding: 10px;
+    flex-wrap: wrap;
+    /* border: 10px; */
+
+}
+.b{
+    height: auto;
+    width: auto;
+    border: 2px;
+    background-color: lightgray;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 5px 5px;
+  }
+ 
+.A2{
+    background-color:green;
+    display: flex;
+    width: auto;
+    height: 100px;
+    margin:20px;
+    
+  
+}
+.f{
+   margin-left: 20px;
+   padding-right: 700px;
+   align-content: center;
+
+}
+.c{
+    color:white;
+    align-content: center;
+    padding-right: 40px;
+}
+.e{
+    margin: 30px 0px 10px 0px;
+    background-color: lime;
+    width: auto;
+    height: 30px;
+    padding:10px 25px ;
+    border-radius: 5px;
+    justify-content: space-evenly;
+}
+.m{
+    padding-left: 10px;
+    align-content: center;
+    padding: 10px;
+}
+.A3{
+    background-color:black;
+    display: flex;
+    width: auto;
+    height: 90px;
+    margin:20px;
+}
+.di{
+   margin-left: 20px;
+   padding-right: 600px;
+   align-content: center;
+
+}
+.d{
+    color:white;
+    align-content: center;
+    padding-right: 60px;
+}
+.x{
+    margin: 30px 0px 0px 0px;
+    background-color: white;
+    width: auto;
+    height: 30px;
+    padding:10px 25px ;
+    border-radius: 5px;
+    justify-content: space-evenly;
+}
